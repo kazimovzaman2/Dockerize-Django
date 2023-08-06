@@ -1,1 +1,3 @@
-Django Dockerize
+# Django Dockerize
+
+Dockerize you Django app with postgres
