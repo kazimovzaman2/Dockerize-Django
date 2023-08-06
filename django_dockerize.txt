@@ -1,0 +1,41 @@
+? Do you want to create a new Django Project › No / Yes +
+
+? Whats the name of the project? » my-project (write name of the project) +
+
+? Do you want to create a docker-compose file? 🐳 › No / Yes
+
+
+? What environments do you want to configure? › - Use arrow-keys. Return to submit.
+❯   Development - Creates a development environment
+    Production
+    Both
+    Custom
+
+
+? Whats the name of the project? › strapi
+
+? What database do you want to use? › SQLite is not an option when using docker-compose
+❯   MySQL - Setup with MySQL database and dependencies
+    MariaDB
+    PostgreSQL
+
+
+
+? Database Host › localhost
+
+
+
+? Database Name › strapi
+
+
+
+? Database Username › strapi
+
+
+
+? Database Password › 
+
+
+? Database Port › 5432
+
+
